@@ -1,0 +1,20 @@
+.list-group-item {
+    border: 0px solid transparent !important;
+}
+
+nav ul li img {
+    height: 24px;
+    width: 24px;
+}
+
+nav a img {
+    height: 33px;
+    width: 112px;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+    color: #343434;
+    background-color: #EDA836;
+    border-radius: 50px !important;
+}
