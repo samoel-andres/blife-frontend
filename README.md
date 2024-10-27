@@ -25,3 +25,14 @@ He dividido el contenido del repositorio teniendo en mente el patron de arquitec
 
 ## Resultados
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samoel-andres/blife-frontend/main/public/evidence/blife_1.JPG" alt="Vista primera parte de la interfaz">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samoel-andres/blife-frontend/main/public/evidence/blife_2.JPG" alt="Vista segunda parte de la interfaz">
+</p>
+
+## Conclusión
+
+Los resultados de la maquetación de esta interfaz son satisfactorios, es una excelente oportunidad mediante la cual he practicado el lenguaje de marcado HTML, PHP y Bootstrap. La interfaz coincide perfectamente con el diseño proporcionado mediante figma, el cual se muestra a continuación para comparar los resultados con el diseño proporcionado.
