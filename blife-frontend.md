@@ -1,1 +1,0 @@
-# Examen Blife Frontend
