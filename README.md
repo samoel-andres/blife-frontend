@@ -6,7 +6,7 @@ Esta es una interfaz sencilla que representa la pantalla de inicio de <a href="h
 
 ## :hammer: Estructura del proyecto
 
-He dividido el contenido del repositorio teniendo en mente el patron de arquitectura MVC (Modelo-Vista-Controlador), por lo cual el contenido de archivos y carpetas se agrupa de la siguiente manera:
+He dividido el contenido del repositorio teniendo en mente el patrón de arquitectura MVC (Modelo-Vista-Controlador), por lo cual el contenido de archivos y carpetas se agrupa de la siguiente manera:
 
 - **Config**
   - Donde se almacenan los archivos de configuración necesarios para el funcionamiento del proyecto.
