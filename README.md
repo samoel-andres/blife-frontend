@@ -1,8 +1,8 @@
-<h1 align="left"> :pencil: EXAMEN </h1>
+<h1 align="left" width="100%"> :pencil: PRÁCTICA  <img align="right" src="https://skillicons.dev/icons?i=vscode,php,bootstrap,html,css,git" height="37"> </h1>
 
 ## :pen: Acerca de este proyecto
 
-Esta es una interfaz sencilla que representa la pantalla de inicio de <a href="https://blife.mx/" target="_blank">blife.mx</a>, el diseño de la misma fue proporcionada en la vacante de empleo que en su momento publicó la compañia <i>(créditos a quien corresponda)</i>, se solicitaba realizar la interfaz con un lenguaje específico, sin embargo, con fines de práctica yo la he realizado empleando PHP y Bootstrap.
+Esta es una interfaz sencilla que representa la pantalla de inicio de <a href="https://blife.mx/" target="_blank">blife.mx</a>, el diseño de la misma fue proporcionada en la vacante de empleo que en su momento publicó la compañia <i>(créditos a quién corresponda)</i>, se solicitaba realizar la interfaz con un lenguaje específico, sin embargo, con fines de práctica yo la he realizado empleando PHP y Bootstrap.
 
 ## :hammer: Estructura del proyecto
 
