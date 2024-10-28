@@ -1,10 +1,10 @@
-<h1 align="center"> EXAMEN </h1>
+<h1 align="left"> :pencil: EXAMEN </h1>
 
-## Acerca de este proyecto
+## :pen: Acerca de este proyecto
 
-Esta es una interfaz sencilla que representa la pantalla de inicio de <a href="https://blife.mx/">blife.mx</a>, el diseño de la misma fue proporcionada en la vacante de empleo que en su momento publicó la compañia <i>(créditos a quien corresponda)</i>, se solicitaba realizar la interfaz con un lenguaje específico, sin embargo, con fines de práctica yo la he realizado empleando PHP y Bootstrap.
+Esta es una interfaz sencilla que representa la pantalla de inicio de <a href="https://blife.mx/" target="_blank">blife.mx</a>, el diseño de la misma fue proporcionada en la vacante de empleo que en su momento publicó la compañia <i>(créditos a quien corresponda)</i>, se solicitaba realizar la interfaz con un lenguaje específico, sin embargo, con fines de práctica yo la he realizado empleando PHP y Bootstrap.
 
-## Estructura del proyecto
+## :hammer: Estructura del proyecto
 
 He dividido el contenido del repositorio teniendo en mente el patron de arquitectura MVC (Modelo-Vista-Controlador), por lo cual el contenido de archivos y carpetas se agrupa de la siguiente manera:
 
@@ -23,7 +23,7 @@ He dividido el contenido del repositorio teniendo en mente el patron de arquitec
 - **Index**
   - El archivo principal que define la página de inicio que se visualiza de forma predeterminada al acceder a cualquier sitio web.
 
-## Resultados
+## :package: Resultados
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samoel-andres/blife-frontend/main/public/evidence/blife_1.JPG" alt="Vista primera parte de la interfaz">
@@ -33,6 +33,6 @@ He dividido el contenido del repositorio teniendo en mente el patron de arquitec
   <img src="https://raw.githubusercontent.com/samoel-andres/blife-frontend/main/public/evidence/blife_2.JPG" alt="Vista segunda parte de la interfaz">
 </p>
 
-## Conclusión
+## :pen: Conclusión
 
-Los resultados de la maquetación de esta interfaz son satisfactorios, es una excelente oportunidad mediante la cual he practicado el lenguaje de marcado HTML, PHP y Bootstrap. La interfaz coincide perfectamente con el diseño proporcionado mediante figma, el cual se muestra a continuación para comparar los resultados con el diseño proporcionado.
+Los resultados de la maquetación de esta interfaz son satisfactorios, es una excelente oportunidad mediante la cual he practicado el lenguaje de marcado HTML, PHP y Bootstrap. La interfaz coincide perfectamente con el diseño proporcionado mediante figma.
