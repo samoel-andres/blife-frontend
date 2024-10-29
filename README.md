@@ -2,7 +2,7 @@
 
 ## :pen: Acerca de este proyecto
 
-Esta es una interfaz sencilla que representa la pantalla de inicio de <a href="https://blife.mx/" target="_blank">blife.mx</a>, el diseño de la misma fue proporcionada en la vacante de empleo que en su momento publicó la compañia <i>(créditos a quién corresponda)</i>, se solicitaba realizar la interfaz con un lenguaje específico, sin embargo, con fines de práctica yo la he realizado empleando PHP y Bootstrap.
+Esta es una interfaz que representa la pantalla de inicio de <a href="https://blife.mx/" target="_blank">blife.mx</a>, el diseño de la misma fue proporcionada en la vacante de empleo que en su momento publicó la compañia <i>(créditos a quién corresponda)</i>, se solicitaba realizar la interfaz con un lenguaje específico, sin embargo, con fines de práctica yo la he realizado empleando PHP y Bootstrap.
 
 ## :hammer: Estructura del proyecto
 
