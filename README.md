@@ -28,11 +28,11 @@ He dividido el contenido del repositorio teniendo en mente el patrón de arquite
 ## :package: Resultados
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samoel-andres/blife-frontend/main/public/evidence/blife_1.JPG" alt="Vista primera parte de la interfaz">
+  <img src="https://raw.githubusercontent.com/samoel-andres/blife-frontend/main/public/evidence/blife_1.JPG" alt="Interfaz parte 1">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samoel-andres/blife-frontend/main/public/evidence/blife_2.JPG" alt="Vista segunda parte de la interfaz">
+  <img src="https://raw.githubusercontent.com/samoel-andres/blife-frontend/main/public/evidence/blife_2.JPG" alt="Interfaz parte 2">
 </p>
 
 ## :pen: Conclusión
