@@ -2,6 +2,8 @@
 
 <br><img align="left" src="https://skillicons.dev/icons?i=vscode,php,bootstrap,html,css,github,git" height="37" alt="Tecnologias"><br><br>
 
+## Descripción
+
 Esta es la interfaz de usuario de una practica, una plataforma diseñada para la venta de productos en linea. Este repositorio contiene el código fuente de mis resultados de desarrollo en PHP, Bootstrap, HTML y CSS.
 
 ![Vista de la interfaz 1](public/evidence/blife_1.JPG)
